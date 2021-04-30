@@ -1,1 +1,1 @@
-# shinxai-bot
+# sphinxai-bot
