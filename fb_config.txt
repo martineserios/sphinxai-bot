@@ -1,0 +1,12 @@
+{
+    "FB_CONFIG" : {
+        "apiKey": "AIzaSyDkWhwdysVn-ad4a593x8btqsoLF8xIr8I", 
+        "authDomain": "sphinxai.firebaseapp.com", 
+        "projectId": "sphinxai", 
+        "storageBucket": "sphinxai.appspot.com", 
+        "messagingSenderId": "642635082133", 
+        "appId": "1:642635082133:web:346902227bd04b3746ee9c", 
+        "measurementId": "G-HXG4SLT1JF", 
+        "databaseURL": "https://sphinxai-default-rtdb.firebaseio.com"
+    }
+}
