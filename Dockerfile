@@ -12,6 +12,6 @@ WORKDIR /app
 
 ENV PORT 8080
 ENV TOKEN 1739358107:AAHLRPqza2PmSu1oW8hdnpCZWhmerXXu7YE
-
+    
 ENTRYPOINT [ "/bin/bash", "-l", "-c" ]
 CMD [ "python3", "bot.py" ]
