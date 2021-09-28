@@ -1,6 +1,7 @@
 # SPECIFIC
 client_secret.json
 fb_config.txt
+*.mp4
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
